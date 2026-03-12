@@ -1,0 +1,16 @@
+{
+  "difyBaseUrl": "http://localhost",
+  "workflowApiKey": "app-GYFFNgg38KzSrmfvz7LhPFL6",
+  "datasetApiKey": "dataset-OHv60s1PeffDyMQ161yVqUCK",
+  "userId": "script-user",
+  "knowledgeMap": {
+    "案件概要":                      "44efdb8f-7ea8-4a18-adb4-07ff42cdcda6",
+    "課題・背景":                    "2bbc32b5-c7e1-46a6-b201-48e6a8f4a7a1",
+    "導入後イメージ":                "173ba03b-978b-460b-9b2c-e5111cfbc629",
+    "対象範囲（チャネル／サービス）": "b02a262b-e6ff-4ae1-b168-38224478c4ac",
+    "対応システム・対応内容":        "82df2a14-472f-4662-8ad0-38175b57d827",
+    "対応システム・対応内容（メータデータなし）":        "f96dca72-a585-4510-a41a-901e5767b661",
+    "その他情報（業務フロー等）":    "4c99436d-f259-4262-90cf-899b093269ed",
+    "スケジュール":                  "8b4235a6-9891-492f-955b-a41b076d9860"
+  }
+}
