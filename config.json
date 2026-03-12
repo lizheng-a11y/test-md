@@ -1,0 +1,9 @@
+{
+  "difyBaseUrl": "http://localhost",
+  "apiKey": "app-NOlMGuKQGBNOMCxCHKIIdPuX",
+  "userId": "script-user",
+  "mdSubDir": "対応システム・対応内容",
+  "csvKeyword": "クレンジング",
+  "outputFile": "output/対応内容別工数一覧.csv",
+  "unmatchedLog": "output/unmatched.log"
+}
